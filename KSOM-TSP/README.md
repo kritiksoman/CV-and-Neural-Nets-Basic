@@ -1,5 +1,5 @@
 # KSOM-TSP
-[![MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/kritiksoman/KSOM-TSP/blob/master/LICENSE)
+[![MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/kritiksoman/Neural-Nets-Basic/blob/master/KSOM-TSP/LICENSE)
 
 Solving the Traveling Salesman Problem (TSP) using Kohonen self organizing map (KSOM).
 
@@ -9,7 +9,7 @@ The algorithm additionally deletes neurons that do not win and get updated more 
 It also starts with 1 neuron in the beginning and duplicates the winning neuron if it wins more than once. 
 
 ## Result Screenshots
-![image1](https://github.com/kritiksoman/KSOM-TSP/blob/master/results/TSP_Result.png)
+![image1](https://github.com/kritiksoman/Neural-Nets-Basic/blob/master/KSOM-TSP/results/TSP_Result.png)
 
 ## Files
 data.csv: Contains coordinates of the 29 cities. <br>
