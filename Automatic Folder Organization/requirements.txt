@@ -1,0 +1,5 @@
+pdfminer.six
+sklearn
+pandas
+wordcloud
+seaborn
